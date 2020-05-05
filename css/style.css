@@ -1,0 +1,223 @@
+/* 1. 注册 */
+.header-1{padding-top: 20px;padding-bottom: 8px}
+.header-1 .header-buttom{border-bottom: 1px solid #f06d03;padding-bottom: 5px}
+.header-1 .header-buttom .header-left{font-size: 18px;}
+.header-1 .header-buttom .header-left .header-left-font{color: #f06d03;padding-left: 10px}
+.header-1 .header-buttom .header-center{font-size: 16px;text-align: center;padding-top: 2px}
+.header-1 .header-buttom .header-right{font-size: 14px;text-align: left;padding-top: 4px}
+
+.cont{margin-top: 10px;margin-bottom: 10px}
+.cont .content-1{text-align: left;font-size: 14px;padding: 6px 8px 6px 20px;color: #666666}
+.cont .btn-1{padding-top: 4px}
+.cont .btn-my-1{padding: 4px 4px;border-radius: 5px;background: #f06d03}
+
+.footer-1{text-align: center}
+.footer-1 .footer-1-2{padding:10px 60px;border-radius: 5px;background: #f06d03;}
+
+/* 2.0 登录 */
+.footer-2{text-align: right;margin-top: 0px}
+
+/* 2.1 重置密码 */
+.btn-3{padding: 4px 4px;border-radius: 5px;background: #adadad;border: #adadad}
+
+/* 3.0 APP首页 */
+.header-3{background: #f06d03;padding-top: 20px;padding-bottom: 8px}
+.header-3 .header-left-3{text-align: center;padding-left: 15px}
+.header-3 .header-left-3 .header-left-font-3{color: #FFFFFF}
+.header-3 .header-center-3{text-align: center}
+.header-3 .header-center-3 .header-center-font-3{font-size: 16px;color: #FFFFFF}
+.header-3 .header-right-3{text-align: center;padding-right: 15px}
+.header-3 .header-right-3 .header-right-font-3{color: #FFFFFF}
+
+.ma-buttom-photo{padding-bottom: 4px}
+.ma-buttom-good{margin:4px 6px;background: #FFFFFF}
+.ma-buttom-good .good-3-1{padding-left: 0px}
+.ma-buttom-good span{display: block}
+.ma-buttom-good .good-3-1 .good-3-2{font-size: 12px}
+.ma-buttom-good .good-3-1 .good-3-2 .good-button{background: #FFFFFF;color: #f06d03;border: 1px solid #f06d03;padding: 0px;margin-left:18px}
+.ma-buttom-good .good-3-3{font-size: 12px;color: #999999}
+
+.pad-buttom{padding-bottom: 50px}
+
+/*footer*/
+.wei .add-btn{margin-top:-10px;}
+
+.fixed{width: 100%; height: 50px;position:fixed;bottom:0px;}
+.fixed .foot-3{text-align: center;margin-top: 4px}
+
+/*  4.1 大厨介绍 */
+.bor-but-4{border-bottom: 1px solid #f06d03}
+.dcjs-4-left{text-align: center;padding: 4px 0px;background: #adadad}
+.dcjs-4-left .dacj-4-font1{color: #f06d03}
+.dcjs-4-left .dacj-4-font2{color: #adadad}
+
+.ddjs-lb{margin-top: 10px}
+.ddjs-lb .dcjs-4-lb-left{padding: 4px 0px 4px 8px;text-align: center}
+.ddjs-lb .dcjs-4-lb-mid{margin-top: 16px;padding-left: 0px}
+.ddjs-lb .dcjs-4-lb-font1{font-size: 16px;}
+.ddjs-lb .dcjs-4-lb-font1 .dcjs-4-lb-btn{border: 0px;background: #f06d03;font-size: 10px;color: #FFFFFF;padding: 1px 3px}
+.ddjs-lb .dcjs-4-lb-font2{color: #666666}
+.ddjs-lb .dcjs-4-lb-font3{font-size: 20px;color: #f06d03}
+.ddjs-lb .dcjs-4-lb-right{margin-top: 20px}
+.ddjs-lb .dcjs-4-lb-right .dcjs-4-lb-font4{color: #666666}
+
+.footer-4-car{background: #ed784d}
+.footer-4-car .border-4-rig{border-right: 1px solid #FFFFFF}
+.footer-4-car .foot-car1{text-align: center;background: #ed784d;padding-top: 10px;padding-bottom: 10px;color: #FFFFFF;font-size: 16px;}
+.footer-4-car .foot-car1 .foot-carbutton1{border: 0px;background: #FFFFFF;color: #ed784d;font-size: 14px;border-radius: 5px;margin-right: 8px;padding:2px 12px;margin-top: -2px}
+
+.gwcar{padding-bottom: 4px;padding-top: 4px;text-align: center}
+
+.rzsc{border-radius: 10px;padding-left: 4px;background: #FFFFFF;border: 1px solid #666666;position: absolute;top: 102%;left: 65%}
+.radx-btn{border: 1px solid #666666;border-radius: 480%;height: 81px;width: 81px;background:#FFFFFF;position: absolute;top: 65%;left: 39%}
+
+.radc-pssm{padding: 10px 30px;}
+.sxjjt{position: absolute;top: 20px;left: 20px}
+.x{color: #FFFFFF;font-size: 40px}
+/*.gg{position: relative;top: -20px;right: -20px}*/
+
+.dcjs-4-head{text-align: center;padding-top: 15px}
+.dcjs-4-head .sxj{padding-top: 15px}
+
+/* 5.0 点餐 */
+.dc{padding: 10px 10px 10px 20px}
+.dc .dc-fond1{display: block}
+.dc .dc-fond2{color: #f06d03}
+.dc-r{margin-top: 6px;padding-top: 2px;text-align: right;padding-right: 20px}
+.dc-r .dc-fond3{font-size: 30px}
+
+.d-sy{padding-top: 8px;padding-bottom: 6px}
+.d-sy .sy-font1{padding-left: 8px}
+.d-sy .sy-font2{float: right;padding-right: 12px;color: #adadad}
+.d-sy .sy-font3{color: #adadad;font-size: 10px}
+.d-sy .sy-font4{color: #f06d03;padding-left: 8px}
+.d-sy .sy-font5{float: right;padding-right: 12px}
+.pad-buttom1{padding-bottom: 300px}
+
+.tx11{position: relative;top: -200px;left: 10px}
+.tx1{border-radius: 20px;border: 0px;width: 100px;padding: 0px}
+
+/*
+7 评论
+*/
+.pl{padding: 10px 4px}
+.pl .pl-font1{font-size: 16px;padding-bottom: 3px}
+.pl .pl-font2{padding-bottom: 3px}
+
+.tx{text-align: center;padding-left: 20px;padding-top: 10px}
+.pl-mabuttom{margin-bottom: 10px}
+.pl-mabuttom1{margin-bottom: 5px}
+
+/* 8. 购物车 */
+.bg-black{background: rgba(0, 0, 0, 0.3)}
+
+.fixed-dd{width: 100%; height: 50px;position:fixed;bottom:-10px;padding: 0px}
+.fixed-dd .foot-carbutton{border: 0px;background: #FFFFFF;color: #ed784d;font-size: 14px;border-radius: 5px;margin-right: 8px;padding:2px 12px;margin-top: -2px}
+.border-r{border-left: 1px solid #FFFFFF}
+.fixed-dd .foot-car{text-align: center;background: #ed784d;padding-top: 10px;padding-bottom: 10px;color: #FFFFFF;font-size: 16px;}
+
+.panel-shopcar{display: none;position: fixed;left: 0px;right: 0px;bottom: 0px;background: #FFFFFF}
+.cont-8{margin-top: 6px;margin-bottom: 6px;}
+.content-8-1{text-align: left;font-size: 14px;padding: 6px 8px 6px 20px;color: #666666}
+.content-8-2{text-align: center;font-size: 14px;padding: 0px;color: #666666;margin-top: 7px}
+.content-8-3{text-align: left;font-size: 14px;padding: 6px 8px 6px 0px;color: #666666}
+.content-8-3 .carcd{color: #adadad;font-size: 10px}
+
+.gw_num{border: 0px;width: 65px;line-height: 20px;overflow: hidden;border-radius: 10px;background: #dbdbdb}
+.gw_num em{display: block;height: 20px;width: 20px;float: left;color: #f06d03 ;text-align: center;cursor: pointer}
+.gw_num .num{display: block;float: left;text-align: center;width: 25px;font-style: normal;font-size: 12px;line-height: 18px;border: 0;background: #dbdbdb;padding: 0px}
+.gw_num em.add{float: right;border-right: 0;}
+
+/* 9. 确认订单 */
+.qrdd{padding: 14px 20px;color: #666666}
+.qrdd .qrdd-left{padding-left: 10px}
+.qrdd .qrdd-right{float: right;padding-right: 8px}
+.qrcd-mid{padding: 10px 0px 6px 20px}
+.qrcd-mar{margin-bottom: 12px}
+
+.bg-co{background: #f06d03;width: 100%; height: 50px;position:fixed;bottom:-10px;padding: 0px}
+.bg-co .bg-co-left{color: #FFFFFF;padding-left: 20px;padding-top: 10px}
+.bg-co .bg-co-right{background: #FFFFFF;color: #f06d03;float: right;border-radius: 5px;margin-top: 10px;margin-right: 20px}
+
+
+/*10.0 就餐方式*/
+.jcfs-10-left{padding-left: 30px;padding-top: 15px;font-size: 18px;color: #666666}
+.jcfs-10-mid{padding-top: 15px;padding-bottom: 15px;color: #adadad}
+.jcfs-10-xmid{padding-top: 30px;padding-bottom: 30px;color: #adadad}
+.jcfs-10-lmid{color: #f06d03;font-size: 40px;padding:0px}
+
+/*  11. 留言 */
+.ly-xx{text-align: center;margin-top: 10px}
+.ly-xx .ly-kxxx{width: 120px;padding-top: 8px;padding-bottom: 8px;margin-left: 5px;background: #FFFFFF;color: #666666;border: 1px solid #f06d03}
+
+/*12.0 全部订单*/
+.qrdd{padding: 14px 20px;}
+.con-12-ht{text-align: center;padding-top: 14px;padding-bottom: 14px}
+.con-12-dd{text-align: center}
+.con-12-dd .dd-12-bor{border-right: 1px solid #adadad}
+.con-12-dd .dd-12-1{padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid #adadad}
+.con-12-dd .dd-font1{color: #adadad}
+.con-12-dd .dd-12-but{float: right;padding-top: 6px;padding-bottom: 6px}
+.con-12-dd .dd-12-but .dd-but{color: #f06d03;background: #FFFFFF;border-radius: 5px;border: 1px solid #adadad;}
+.pa-cc-tmar{padding-top: 2px;padding-bottom: 10px}
+.pa-cc-tmar .pa-12-img{padding:4px 0px 3px 10px;text-align: center}
+.pa-cc-tmar .pa-12-jt{padding-top: 16px;padding-right: 30px;padding-bottom: 19px}
+.pa-cc-tmar .pa-12-jt .jj-r{float: right;font-size: 18px}
+.dd-font2{color: #adadad}
+.dd-font3{color: #adadad;font-size: 12px;padding-left: 20px}
+
+
+/*  10.2 删除 */
+.delete-12-jq{position: fixed;top: 180px;left: 0px;right: 0px;display: none}
+.delete-12-jq .scdd-10-jq1{padding-left: 30px}
+.delete-12-jq .scdd-10-jq2{color: #FFFFFF;background: #f06d03;height: 110px;text-align: center;padding-top: 45px;font-size: 20px}
+
+/*13.0 待付款*/
+.xt1:hover{text-decoration: underline}
+
+/*13.1 待付款详情*/
+.bg-13-co{background: #f06d03;width: 100%; height: 50px;position:fixed;bottom:-10px;padding: 0px}
+.bg-13-co .bg-13-lefooter{color:  #FFFFFF;font-size: 16px;text-align: center;padding-left: 30px;padding-top: 8px;padding-bottom: 10px;border-right: 1px solid #FFFFFF}
+.bg-13-co .col-13-midfooter{text-align: center;color: #FFFFFF;padding-top: 10px}
+.bg-13-co .col-13-rifooter{text-align: center;padding:9px 12px 6px 0px;}
+.bg-13-co .col-13-rifooter .col-13-footer-btn{border-radius: 5px;background: #FFFFFF;color: #f06d03;border: 0px}
+
+/*  14.0 待收货 */
+.dd-14-1{padding-top: 8px;padding-bottom: 8px;border-bottom: 1px solid #adadad;text-align: left}
+
+/*  14.1 待收货详情 */
+.footer-14-font{color: #FFFFFF;font-size: 16px}
+.con-14-llcc{text-align: center;padding-top: 12px;padding-bottom: 12px}
+.con-14-llcc .con-14-llcc-btn{background: #FFFFFF;color: #f06d03;border: 1px solid #adadad}
+
+.con-15-font1{color: #f06d03;font-size: 15px;text-align: center;padding-top: 3px;padding-bottom: 3px}
+
+/*  16.0 提交评论 */
+.bg-co-left{color: #FFFFFF;padding-left: 20px;padding-top: 10px;text-align: center;font-size: 18px}
+
+.tjpl-top{height: 160px;width: 100%;border: 0px}
+.tjpl-mid{padding-top: 0px;padding-bottom: 0px;padding-left: 20px}
+.tjpl-mid .tjpl-16-tjtp{font-size: 18px}
+.wordCountShow{text-align: right;padding-right: 20px}
+
+/*  17. 我的 */
+.header-17{background: #f06d03;padding-top: 10px;padding-bottom: 0px}
+.header-17 .header-con{text-align: center;}
+.header-17 .header-con .header-17-img{display: block;}
+.header-17 .header-con .header-17-font{color: #FFFFFF}
+.header-17 .header-con .header-17-set{position: relative;top: -70px;right: 20px;float: right;color: #FFFFFF;font-size: 20px}
+
+/*  18. 服务热线 */
+.fwrx{margin-left: 20px;margin-right: 20px;background: #e6e6e6;position: relative;top: -92px;display: none}
+.fwrx .frwx-tel{padding-top: 10px;padding-bottom: 10px;text-align: center;font-size: 16px}
+.fwrx .fwrx-btn{padding-top: 10px;padding-bottom: 10px;text-align: center;font-size: 16px;color: #f06d03}
+.fwrx .fwrx-btn1{padding-top: 10px;padding-bottom: 10px;text-align: center;font-size: 16px;color: #f06d03;border-right: 2px solid #e1e1e1}
+
+/*  19. 设置 */
+.set-19-set{padding-bottom: 8px;padding-top: 8px;text-align: center}
+.set-19-set .set-19-fond1{color: #f06d03;font-size: 20px}
+
+/*  21. 设置用户名 */
+.set-21-sfont{padding-left: 30px;color: #adadad}
+.set-21-but{text-align: center}
+.set-21-but .set-21-font2{font-size: 18px;border-radius: 8px;padding-top: 8px;padding-bottom: 8px;background: #adadad;color: #FFFFFF;width: 250px}

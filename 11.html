@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>11. 留言</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+</head>
+<body class="bg-f3 pad-buttom">
+<!--header start-->
+<div class="container-fluid oh bg-f3 header-1">
+    <div class="row header-buttom">
+        <div class="col-xs-2 header-left">
+            <a href="" class="header-left-font">
+                <i class="fa fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-xs-8 header-center">
+            <span style="font-size: 18px"><b>留言</b></span>
+        </div>
+        <div class="col-xs-2 header-right">
+            <a href="#" >
+                <span style="color: #f06d03">完成</span>
+            </a>
+        </div>
+    </div>
+</div>
+<!--header end-->
+
+<!--content start-->
+<div class="container-fluid oh bg-white">
+    <div class="row">
+        <div class="col-xs-12">
+            <textarea class="tjpl-top"></textarea>
+        </div>
+    </div>
+</div>
+<div class="container-fluid oh">
+    <div class="row">
+        <div class="col-xs-12 wordCountShow fonthy"></div>
+    </div>
+</div>
+
+<div class="container-fluid oh">
+    <div class="row">
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">不吃辣</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">微辣</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">多放辣椒</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">不放蒜</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">不放香菜</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">少放盐</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">米饭多点</button>
+        </div>
+        <div class="col-xs-6 ly-xx">
+            <button class="ly-kxxx">菜量多点</button>
+        </div>
+    </div>
+</div>
+<!--content end-->
+
+</body>
+<script>
+    $.fn.extend({
+        wordCount: function (maxLength, wordWrapper) {
+            var self = this;
+            $(self).attr("maxlength", maxLength);
+            showWordCount();
+            $(this).on("input propertychange", showWordCount);
+            function showWordCount() {
+                curLength = $(self).val().length;
+                var leaveCount = maxLength - curLength;
+                wordWrapper.text("剩余" + leaveCount + "字");
+            }
+        }
+    })
+    $(function () {
+        $(".tjpl-top").wordCount(140, $(".wordCountShow"));
+    })
+</script>
+</html>
